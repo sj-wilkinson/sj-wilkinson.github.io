@@ -2,11 +2,11 @@
 
 
 # Display name
-title: Simon Gravelle
+title: Scott Wilkinson
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Scott
+last_name: Wilkinson
 
 # Status emoji
 status:
@@ -16,28 +16,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSCA Fellow and CNRS future recruit
+role: PhD Candidate and NSERC Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, University Grenoble Alpes
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: Department of Physics and Astronomy, University of Victoria
+    url: https://www.uvic.ca/science/physics/index.php
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy in Grenoble, France.
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Galaxy Evolution
+  - Post-starburst Galaxies
+  - Galaxy Mergers
+  - Rapid Galaxy Quenching
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD Physics with Concentration in Astronomy
+      institution: University of Victoria
+      year: Expected May 2026
+    - course: Msc Physics with Concentration in Astronomy
+      institution: University of Victoria
+      year: Expected May 2023
+    - course: BSc Combined Major Physics and Astronomy (with distinction)
+      institution: University of Victoria
+      year: Expected May 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,26 +54,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@live.fr
+    link: mailto:swilkinson@uvic.ca
+  - icon: linkedin
+    icon_pack: ai
+    link: https://www.linkedin.com/in/swilkinson~/
     # link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GravelleSimon
-    label: Follow me on Twitter
-  #- icon: mastodon
-  #  icon_pack: fab
-  #  link: https://mastodon.social/@simongravelle
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
+    link: https://scholar.google.ca/citations?user=O91m5KkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/sj-wilkinson
     display:
       header: true
   - icon: cv
     icon_pack: ai
-    link: files/cv/cv.pdf
+    link: /files/cv/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -74,23 +77,20 @@ highlight_name: true
 
 **About me**
 
-I am a physicist in soft matter and fluids at interfaces at [LIPhy](https://liphy.univ-grenoble-alpes.fr/)
-in Grenoble (France). In 2022 I received a [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/)
-grant (*NanoSep*) to study the demixing of fluid mixtures by hybrid nanoporous materials, and I will
-soon be working at [CNRS](https://www.cnrs.fr/).
+From cosmological simulations to large-scale imaging programmes, from visible wavelengths to radio, the overarching goal of my research is to synthesize interdisciplinary data to understand how galaxies evolve over time. Specifically, my research focuses on the role of galaxy-galaxy mergers on rapid evolution from star-forming spirals like our own Milky Way to quiescent ellipticals. I conduct my research at the University of Victoria as a graduate student working with Dr. Sara Ellison. 
 
 **Open source and open data**
 
 All code developed as part of my research is open source and available on public repositories, see for instance 
 [NMRforMD](https://nmrformd.readthedocs.io), a Python script for calculating hydrogen NMR relaxation rates from molecular dynamics simulations,
-or my [Github](https://github.com/simongravelle/) repository containing molecular simulation scripts and data.
+or my [Github]repository containing molecular simulation scripts and data.
 In parallel, I have been involved in the development of [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html),
 a Python toolkit for analyzing confined molecular simulations.
 
 **Outreach**
 
 In parallel to my research activities, I am developing several outreach projects. The most advanced 
-among my current projects are the [LAMMPS tutorials](https://lammpstutorials.github.io). 
-I also wrote [GROMACS tutorials](https://gromacstutorials.github.io), and manage a
-[gallery of animations](https://www.youtube.com/@SimonGravelle), along with creating 
-[molecular art](https://simongravelle.github.io/gallery/).
+among my current projects are the [LAMMPS tutorials]. 
+I also wrote [GROMACS tutorials], and manage a
+[gallery of animations], along with creating 
+[molecular art].
