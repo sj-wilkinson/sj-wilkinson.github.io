@@ -30,7 +30,7 @@ I generally interface with the cosmological simulation [IllustrisTNG](https://ww
 
 Below is an example of one IllustrisTNG100-1 post-merger galaxy simulated at 36 different image qualities from my most recent [paper](https://sj-wilkinson.github.io/publication/2024-01-24-TNG-Mergers). The data used to generate this image is publicly available and can be found [here](https://www.canfar.net/storage/vault/list/AstroDataCitationDOI/CISTI.CANFAR/23.0031/data/).
 
-<img src="/images/SKIRT_RealismExample_88_465168.png">
+<img src="/images/SKIRT_RealismExample_88_465168.jpg">
 
 Quantitative Galaxy Morphologies
 ======
