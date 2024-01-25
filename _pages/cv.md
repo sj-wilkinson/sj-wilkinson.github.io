@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Link to full CV.](/files/cv.pdf)
+[Click here to view my full CV.](/files/cv.pdf)
 
 <img src="/files/cv.pdf">
 

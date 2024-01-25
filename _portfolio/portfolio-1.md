@@ -1,6 +1,6 @@
 ---
 title: "How effectively can we identify galaxy mergers?"
-excerpt: "In this video, I describe my recent publication The limitations (and potential) of non-parametric morphology statistics for post-merger identification for non-astronomers."
+excerpt: "In this video, I describe my recent publication '[The limitations (and potential) of non-parametric morphology statistics for post-merger identification](https://sj-wilkinson.github.io/publication/2024-01-24-TNG-Mergers)' for non-astronomers."
 collection: portfolio
 ---
 
