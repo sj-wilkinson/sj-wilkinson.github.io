@@ -1,7 +1,7 @@
 ---
 title: "Do Galaxy Mergers Quench Star Formation?"
 collection: talks
-type: "talk"
+type: "Talk (with Sara Ellison)"
 permalink: /talks/2022-09-01-cambridge
 venue: "The Epoch of Galaxy Quenching"
 date: 2022-09-01
