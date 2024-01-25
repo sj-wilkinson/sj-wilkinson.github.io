@@ -13,9 +13,9 @@ redirect_from:
 
 
 
-<object data="files/cv.pdf" type="application/pdf">
-    <embed src="files/cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+<object data="https://sj-wilkinson.github.io/files/cv.pdf" type="application/pdf">
+    <embed src="https://sj-wilkinson.github.io/files/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://sj-wilkinson.github.io/files/cv.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
