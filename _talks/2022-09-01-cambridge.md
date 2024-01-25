@@ -8,4 +8,8 @@ date: 2022-09-01
 location: "Cambridge, United Kingdom"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Here are a few photos from this conference. 
+
+<img src="/images/DSC04476.jpeg">
+<img src="/images/DSC04437.jpeg">
+<img src="/images/Galaxy_Quenching_photo.jpg">
