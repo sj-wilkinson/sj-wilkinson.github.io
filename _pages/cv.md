@@ -10,7 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
+<img src="/files/cv.pdf">
 
+<object data="/files/cv.pdf" type="application/pdf">
+    <embed src="/files/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://sj-wilkinson.github.io/files/cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 <object data="https://sj-wilkinson.github.io/files/cv.pdf" type="application/pdf">
