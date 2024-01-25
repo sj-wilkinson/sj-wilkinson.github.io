@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Link to full CV.](https://sj-wilkinson.github.io/files/cv.pdf)
+
+[Link to full CV.](/files/cv.pdf)
+
 
 <img src="/files/cv.pdf">
 
