@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
+
+<object data="files/cv.pdf" type="application/pdf">
+    <embed src="files/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
+
+<!---
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +72,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
