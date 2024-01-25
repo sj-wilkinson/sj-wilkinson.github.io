@@ -83,8 +83,8 @@ author:
   name             : "Scott Wilkinson"
   avatar           : "profile.JPEG"
   bio              : "PhD Candidate and NSERC Scholar"
-  location         : "University of Victoria"
-  employer         : "Department of Physics and Astronomy"
+  location         : "University of Victoria Department of Physics and Astronomy"
+  employer         : 
   googlescholar    : "https://scholar.google.ca/citations?user=O91m5KkAAAAJ&hl=en"
   email            : "swilkinson@uvic.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
