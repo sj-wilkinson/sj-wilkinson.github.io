@@ -28,8 +28,8 @@ to the orientation of merger features with respect to the observer.'
 date: 2024-01-24
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: '**Wilkinson S.**, Ellison S. L., Bottrell C., Bickley R. W.,
- Byrne-Mamahit S., Ferreira L., Patton D. R. (2024). &quot The limitations (and potential) of non-parametric morphology statistics for post-merger identification&quot; <i>MNRAS</i>. in press.'
+citation: 'Wilkinson S., Ellison S. L., Bottrell C., Bickley R. W.,
+ Byrne-Mamahit S., Ferreira L., Patton D. R. (2024). The limitations (and potential) of non-parametric morphology statistics for post-merger identification; <i>MNRAS</i>. in press.'
 ---
 Non-parametric morphology statistics have been used for decades to classify
 galaxies into morphological types and identify mergers in an automated way. In
