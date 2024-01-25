@@ -15,7 +15,9 @@ Here are some of the things I've worked (or am currently working) on:
 Molecular Gas Content with ALMA
 ======
 
-I am currenlty working on developing a legacy dataset that combines optical data products from the Sloan Digital Sky Survey and molecular gas measurements from the ALMA archive. As a teaser for what is coming, please enjoy this figure of an SDSS galaxy as viewed at the (rest-frame) 115 GHz CO(1-0) emmission line. 
+I am currenlty working on developing a legacy dataset that combines optical data products from the Sloan Digital Sky Survey and molecular gas measurements from the ALMA archive. 
+
+As a teaser for what is coming, please enjoy this figure of an SDSS galaxy as viewed at the (rest-frame) 115 GHz CO(1-0) emmission line. 
 
 
 
