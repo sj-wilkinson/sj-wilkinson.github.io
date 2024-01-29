@@ -16,7 +16,7 @@ Molecular Gas Content with ALMA
 ======
 ------
 
-I am currenlty working on developing a legacy dataset that combines optical data products from the Sloan Digital Sky Survey (SDSS) and molecular gas measurements from the Atacama Large (sub-)Millimeter Array (ALMA) archive. 
+I am currently working on developing a legacy dataset that combines optical data products from the Sloan Digital Sky Survey (SDSS) and molecular gas measurements from the Atacama Large (sub-)Millimeter Array (ALMA) archive. 
 
 As a teaser for what's coming, please enjoy this figure of an SDSS galaxy as viewed at the 115 GHz (rest-frame) CO(1-0) emission line. 
 
