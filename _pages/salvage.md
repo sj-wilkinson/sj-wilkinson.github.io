@@ -1,9 +1,9 @@
 ---
-permalink: /
+permalink: /salvage/
 title: "SALVAGE: The SDSS-ALMA Legacy Value Archival Gas Exploration"
 author_profile: true
 redirect_from: 
-  - /salvage
+  - /salvage/
 ---
 
 What is SALVAGE?
