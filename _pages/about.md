@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Research Interests"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-From cosmological simulations to large-scale imaging programmes, from visible wavelengths to radio, the overarching goal of my research is to synthesize interdisciplinary data to understand how galaxies evolve over time. Specifically, my research focuses on the role of galaxy-galaxy mergers on rapid evolution from star-forming spirals like our own Milky Way to quiescent ellipticals. I conduct my research at the University of Victoria as a graduate student working with Dr. Sara Ellison.
+From cosmological simulations to large-scale imaging programmes, from visible wavelengths to radio, the overarching goal of my research is to synthesize interdisciplinary data to understand how galaxies evolve over time. I conduct my research at the University of Victoria as a graduate student working with Dr. Sara Ellison.
 
 SALVAGE-ing the ALMA Archive
 ======
@@ -16,7 +16,7 @@ SALVAGE-ing the ALMA Archive
 The SDSS-ALMA Legacy Value Archival Gas Exploration (SALVAGE) dataset combines optical data products from the Sloan Digital Sky Survey (SDSS) and molecular gas measurements from the Atacama Large (sub-)Millimeter Array (ALMA) archive to produce a sample of 277 "semi-resolved" galaxies. 
 
 The data is publicly available [here](https://www.canfar.net/storage/vault/list/salvage/data_release_18-08-25).
-<img src="/images/SALVAGE.png">
+<img src="/images/SALVAGE.jpeg">
 
 Cosmological Simulations
 ======
