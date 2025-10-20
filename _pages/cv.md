@@ -13,8 +13,7 @@ redirect_from:
 
 # **Scott Wilkinson**
 
-**PhD Candidate • University of Victoria**  
-[Personal Website](#) • [ADS Publications](#)
+**PhD Candidate • University of Victoria** • [**ADS Publications**](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=orcid%3A%220000-0002-3303-4077%22&sort=date%20desc%2C%20bibcode%20desc)
 
 ---
 
@@ -85,7 +84,7 @@ Verna J. Kirkness Education Foundation
 
 **Total funding awarded:** $230,622 CAD  
 
-- CASCA Board Prize for Best Talk *(runner-up)* – $100 — *June 2025*  
+- CASCA Board Prize for Best Talk (runner-up) – $100 — *June 2025*  
 - President’s Research Scholarship – $5,000 — *May 2024*  
 - ESA Visitor Funding – $1,710 — *September 2024*  
 - Michael Smith Foreign Study Supplement – $6,000 — *September 2024*  
@@ -215,9 +214,7 @@ Verna J. Kirkness Education Foundation
 
 ## **Equity, Diversity, and Inclusion (EDI) Statement**
 
-Barriers to education and professional success for marginalized groups are not only immoral, but counterproductive to the progression of scientific discovery.  
-I believe small actions make a big difference in creating a safe, inclusive environment, while structural change must occur at the administrative level.  
-I actively support such initiatives and commit to lifelong learning and unlearning to ensure my role in this system is a positive one.  
+Barriers to education and professional success for marginalized groups are not only immoral, but counterproductive to the progression of scientific discovery. I believe small actions make a big difference in creating a safe, inclusive environment, while structural change must occur at the administrative level. I actively support such initiatives and commit to lifelong learning and unlearning to ensure my role in this system is a positive one.  
 
 **Selected EDI Actions:**
 
