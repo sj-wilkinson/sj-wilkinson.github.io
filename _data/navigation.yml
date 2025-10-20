@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "SALVAGE"
+    url: /salvage/
+
   - title: "Publications"
     url: /publications/
 
@@ -9,9 +13,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Updates"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
     
