@@ -12,7 +12,6 @@ From cosmological simulations to large-scale imaging programmes, from visible wa
 
 Resolved Optical + Millimetre Data with KILOGAS
 ======
-------
 
 KILOGAS (Kiloparsec Investigations of Local Objects’ Gas And Star-formation) is a large ALMA program aimed at transforming our understanding of the drivers of star formation activity in galaxies. We map CO(2-1) at 1 kpc resolution in a sample of ~500 galaxies, an order of magnitude more than in any existing survey, and crucially representative of the entire local population (in terms of mass, SFR, size, morphology and environment). All galaxies have optical integral field spectroscopy from the MaNGA and SAMI surveys, providing resolution-matched SFR, metallicity, and M* maps, as well as ionized gas and stellar kinematics. 
 
@@ -20,19 +19,20 @@ Check out the [team website](#https://kilogas.space/).
 
 <img src="/images/KILOGAS_logo.jpg">
 
+------
 
 SALVAGE-ing the ALMA Archive
 ======
-------
 
 The SDSS-ALMA Legacy Value Archival Gas Exploration (SALVAGE) dataset combines optical data products from the Sloan Digital Sky Survey (SDSS) and molecular gas measurements from the Atacama Large (sub-)Millimeter Array (ALMA) archive to produce a sample of 277 "semi-resolved" galaxies. 
 
 The data is publicly available [here](https://www.canfar.net/storage/vault/list/salvage/data_release_18-08-25).
 <img src="/images/SALVAGE.jpeg">
 
+------
+
 Cosmological Simulations
 ======
-------
 
 I generally interface with the [IllustrisTNG](https://www.tng-project.org/) cosmological simulation for the purpose of generating synthetic images of galaxies with realistic properties and environments. 
 
@@ -42,10 +42,11 @@ Below is an example of one IllustrisTNG100-1 post-merger galaxy simulated at 36 
 
 Our group at UVic often uses synthetic images like these to train machine learning algorithms to detect interacting galaxies. See [Bickley et al. (2021)](https://sj-wilkinson.github.io/publication/2024-01-24-TNG-Mergers).
 
+------
 
 Post-starburst Galaxies
 ======
-------
+
 
 Post-starburst galaxies are characterized by having undergone a recent burst of star-formation, followed by a rapid transition to quiescence. Post-starbursts are therefore an integral probe of rapid quenching and the cessation of star-formation. 
 
@@ -53,9 +54,11 @@ While galaxy mergers have long been suspected to be a driving cause of post-star
 
 In [Ellison et al. (2022)](https://sj-wilkinson.github.io/publication/2022-11-02-Mergers-PSB), we show recent mergers are 30-60x more likely to be a post-starburst galaxy than a typical galaxy. 
 
+------
+
 Large-scale Optical Imaging Programmes
 ======
-------
+
 
 I am an active member of the Ultraviolet Near Infrared Optical Northern Survey ([UNIONS](https://unions.skysurvey.cc/)) collaboration. UNIONS offers deep and (relatively) high resolution imaging of the Northern sky, facilitated by the Canada France Hawaii Telescope, among others.
 
@@ -65,15 +68,15 @@ Here is a comparison of a UNIONS (left) and an SDSS (right) image of the same po
 
 <img src="/images/588017109679341686.png">
 
+------
 
 Quantitative Galaxy Morphologies
 ======
-------
 
 I have statmorph morphology catalogues prepared for the ~200,000 galaxies in UNIONS that also fall in the SDSS DR7 main galaxy catalogue (and thus have ancillary data products such as star formation rates and stellar masses). 
 
 I also have the morphology catalogues of entirety of SDSS DR7 in both the g- and r-band.
 
-For now, this data is only available upon request, but I intend to make the data publicly available soon. 
+These data are available upon request. 
 
-
+------
