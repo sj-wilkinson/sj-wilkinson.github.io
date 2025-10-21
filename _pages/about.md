@@ -9,6 +9,18 @@ redirect_from:
 
 From cosmological simulations to large-scale imaging programmes, from visible wavelengths to radio, the overarching goal of my research is to synthesize interdisciplinary data to understand how galaxies evolve over time. I conduct my research at the University of Victoria as a graduate student working with Dr. Sara Ellison.
 
+
+Resolved Optical + Millimetre Data with KILOGAS
+======
+------
+
+KILOGAS (Kiloparsec Investigations of Local Objects’ Gas And Star-formation) is a large ALMA program aimed at transforming our understanding of the drivers of star formation activity in galaxies. We map CO(2-1) at 1 kpc resolution in a sample of ~500 galaxies, an order of magnitude more than in any existing survey, and crucially representative of the entire local population (in terms of mass, SFR, size, morphology and environment). All galaxies have optical integral field spectroscopy from the MaNGA and SAMI surveys, providing resolution-matched SFR, metallicity, and M* maps, as well as ionized gas and stellar kinematics. 
+
+Check out the [team website](#https://kilogas.space/).
+
+<img src="/images/KILOGAS_logo.jpg">
+
+
 SALVAGE-ing the ALMA Archive
 ======
 ------
